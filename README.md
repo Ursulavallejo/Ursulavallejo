@@ -144,6 +144,9 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 <h3 align="left">📫 Connect with me:</h3>
 
 - ✉️ Email: ursulavallejo@gmail.com
+  <a href="mailto:ursulavallejo@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 - <a href="https://linkedin.com/in/ursula-vallejo-janne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ursula-vallejo-janne" height="30" width="40" /></a> LinkedIn: [Ursula Vallejo Janne](https://www.linkedin.com/in/ursula-vallejo-janne/)
 
 - <a href="https://codepen.io/@ursulavallejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ursulavallejo" height="30" width="40" /></a> Codepen
