@@ -52,9 +52,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       <small>Crafting maintainable codebases, from vanilla JS to full TypeScript adoption.</small>
     </th>
     <td align="center" width="70%">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
-  </a>
     </td>
 
   </tr>
@@ -65,9 +63,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       <small>Building dynamic, component-driven UIs with SEO-friendly frameworks.</small>
     </th>
     <td align="center" width="70%">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue,react,nextjs,vite,nuxtjs" />
-  </a>
     </td>
   </tr>
 
@@ -77,9 +73,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       <small>Turning wireframes into polished UI with modern CSS and design systems.</small>
     </th>
     <td align="center" width="70%">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,css,tailwind,bootstrap,styledcomponents,sass" />
-  </a>
     </td>
   </tr>
 
@@ -89,9 +83,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       <small>Architecting REST &amp; GraphQL services, real-time features and server-side rendering.</small>
     </th>
     <td align="center" width="70%">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
-  </a>
         <img src="./assets/socketio.png" width="40"  />
     </td>
 
@@ -103,9 +95,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       <small>Reliable data models and migrations for small apps up to enterprise-scale systems.</small>
     </th>
     <td align="center" width="70%">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql," />
-  </a>
     </td>
   </tr>
 
@@ -115,9 +105,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       <small>CI/CD, fast bundles and smooth deployments on modern platforms.</small>
     </th>
     <td align="center" width="70%">
-      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,vercel,git,netlify,nginx" />
-  </a>
 </p>
     </td>
   </tr>
@@ -128,9 +116,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       <small>Contentful </small>
     </th>
     <td align="center" width="70%">
-          <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cypress" />
-  </a>
     <img
       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/contentful.svg"
       alt="Contentful"
