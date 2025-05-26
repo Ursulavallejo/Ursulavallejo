@@ -180,6 +180,12 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ursulavallejo/ursulavallejo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ursulavallejo/ursulavallejo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ursulavallejo/ursulavallejo/output/github-snake.svg" />
+</picture>
+
 <p align="center">
   in progress ,last update 2025
 </p>
