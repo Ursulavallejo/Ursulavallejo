@@ -24,13 +24,13 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 🎨 B.Sc. in Art @ Andes University (Bogotá, Colombia)
 
   <!-- Currently learning -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" alt="learning"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="14" alt="learning"/>
  JavaScript Developer program @ IT Högskola (2025)
 </p>
 
 <p align="center">
 
-🔭 Deepening skills in **TypeScript**, **Nuxt 3 & Vue 3** and **accessibility testing (Cypress)**
+🌱 Deepening skills in **TypeScript**, **Nuxt 3 & Vue 3** and **accessibility testing (Cypress)**
 
 </p>
 
@@ -104,7 +104,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
     </th>
     <td align="center" width="70%">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql," />
   </a>
     </td>
   </tr>
@@ -116,7 +116,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
     </th>
     <td align="center" width="70%">
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,vercel,git" />
+    <img src="https://skillicons.dev/icons?i=azure,vercel,git,netlify,nginx" />
   </a>
 </p>
     </td>
@@ -137,9 +137,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       width="40"
     />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="40" />
-
     </td>
-
   </tr>
 </table>
 
