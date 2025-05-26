@@ -129,7 +129,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 
 </div>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ursulavallejo&show_icons=true&locale=en&layout=compact" alt="ursulavallejo" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ursulavallejo&show_icons=true&locale=en&layout=compact" alt="ursulavallejo" /></p>
 
 ## 🚀 Selected Projects
 
