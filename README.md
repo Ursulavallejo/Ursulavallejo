@@ -137,10 +137,12 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 <h3 align="left">📫 Connect with me:</h3>
 
 <table
-border="0"
 cellpadding="5"
+cellspacing="0"
 with="100%"
+
 >
+
   <tr>
     <td valign="middle" width="50">
       <a href="mailto:ursulavallejo@gmail.com" target="_blank">
