@@ -1,9 +1,7 @@
-<p align="center">
-
   <!-- Main banner -->
   <img src="./assets/banner.png" alt="Ursula Vallejo"  />
 
-<h1>Hello, I’m <strong>Ursula !!</strong></h1>
+# Hello, I’m <strong>Ursula !!</strong>
 
 ✨ A goal-driven Full-Stack JavaScript Developer with a background in Arts and Design. I merge creativity and logic to craft accessibility-first, user-centric experiences that look as beautiful as they perform.
 Passionate about blending design & tech to build meaningful products,
@@ -21,9 +19,9 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 
 🎨 B.Sc. in Art @ Andes University (Bogotá, Colombia)
 
-  <!-- Currently learning -->
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="14" alt="learning"/> JavaScript Developer program @ IT Högskola (2025)
+
+  <!-- Currently learning -->
 
 🌱 Deepening skills in **TypeScript**, **Nuxt 3 & Vue 3** and **accessibility testing (Cypress)**
 
@@ -124,6 +122,8 @@ I spend my free time experimenting with laser-cut creations, some creative proje
   <!-- Stats languages -->
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ursulavallejo&show_icons=true&locale=en&layout=compact" alt="ursulavallejo-stats" /></p>
 
+---
+
 ## 🚀 Selected Projects
 
 | Project                          | Description                                                                                    | Link                                   |
@@ -134,48 +134,46 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 
 ---
 
-<h3 align="left">📫 Connect with me:</h3>
+### 📫 Connect with me:
 
-<table
-cellpadding="5"
-cellspacing="0"
-with="100%"
+<p>
+  <a href="mailto:ursulavallejo@gmail.com" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      width="30"
+      height="30"
+      align="absmiddle"
+      alt="Gmail"
+    />
+  </a>
+  &nbsp;Email: ursulavallejo@gmail.com
+</p>
 
->
+<p>
+  <a href="https://linkedin.com/in/ursula-vallejo-janne" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      width="30"
+      height="30"
+      align="absmiddle"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;LinkedIn: <a href="https://linkedin.com/in/ursula-vallejo-janne" target="_blank">Ursula Vallejo Janne</a>
+</p>
 
-  <tr>
-    <td valign="middle" width="50">
-      <a href="mailto:ursulavallejo@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail" />
-      </a>
-    </td>
-    <td valign="middle">
-      Email: ursulavallejo@gmail.com
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="middle" width="50">
-      <a href="https://linkedin.com/in/ursula-vallejo-janne" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
-      </a>
-    </td>
-    <td valign="middle">
-      LinkedIn: <a href="https://linkedin.com/in/ursula-vallejo-janne" target="_blank">Ursula Vallejo Janne</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="middle" width="50">
-      <a href="https://codepen.io/@ursulavallejo" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" alt="Codepen" />
-      </a>
-    </td>
-    <td valign="middle">
-      CodePen: <a href="https://codepen.io/@ursulavallejo" target="_blank">@ursulavallejo</a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://codepen.io/@ursulavallejo" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+      width="30"
+      height="30"
+      align="absmiddle"
+      alt="CodePen"
+    />
+  </a>
+  &nbsp;CodePen: <a href="https://codepen.io/@ursulavallejo" target="_blank">@ursulavallejo</a>
+</p>
 
 ---
 
