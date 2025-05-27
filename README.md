@@ -128,7 +128,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 </table>
 
 </div>
-
+  <!-- Stats languages -->
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ursulavallejo&show_icons=true&locale=en&layout=compact" alt="ursulavallejo" /></p>
 
 ## 🚀 Selected Projects
@@ -143,11 +143,15 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 
 <h3 align="left">📫 Connect with me:</h3>
 
-<table cellpadding="5">
+<table
+border="0"
+cellpadding="5"
+with="100%"
+>
   <tr>
-    <td valign="middle" width="40">
+    <td valign="middle" width="50">
       <a href="mailto:ursulavallejo@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" height="30" width="40" alt="Gmail" />
+        <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail" />
       </a>
     </td>
     <td valign="middle">
@@ -156,7 +160,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
   </tr>
 
   <tr>
-    <td valign="middle" width="40">
+    <td valign="middle" width="50">
       <a href="https://linkedin.com/in/ursula-vallejo-janne" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
       </a>
@@ -167,7 +171,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
   </tr>
 
   <tr>
-    <td valign="middle" width="40">
+    <td valign="middle" width="50">
       <a href="https://codepen.io/@ursulavallejo" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" alt="Codepen" />
       </a>
@@ -180,6 +184,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 
 ---
 
+  <!-- Snake game -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ursulavallejo/ursulavallejo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ursulavallejo/ursulavallejo/output/github-snake.svg" />
