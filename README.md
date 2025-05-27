@@ -137,7 +137,6 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 ### 📫 Connect with me:
 
 <p>
-  <a href="mailto:ursulavallejo@gmail.com" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=gmail"
       width="30"
@@ -145,12 +144,12 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       align="absmiddle"
       alt="Gmail"
     />
-  </a>
+   <a href="mailto:ursulavallejo@gmail.com" target="_blank">
   &nbsp;Email: ursulavallejo@gmail.com
+    </a>
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/ursula-vallejo-janne" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       width="30"
@@ -158,12 +157,10 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       align="absmiddle"
       alt="LinkedIn"
     />
-  </a>
   &nbsp;LinkedIn: <a href="https://linkedin.com/in/ursula-vallejo-janne" target="_blank">Ursula Vallejo Janne</a>
 </p>
 
 <p>
-  <a href="https://codepen.io/@ursulavallejo" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
       width="30"
@@ -171,7 +168,6 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       align="absmiddle"
       alt="CodePen"
     />
-  </a>
   &nbsp;CodePen: <a href="https://codepen.io/@ursulavallejo" target="_blank">@ursulavallejo</a>
 </p>
 
