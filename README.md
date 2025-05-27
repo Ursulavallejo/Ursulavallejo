@@ -109,20 +109,20 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       <small>Contentful </small>
     </th>
     <td align="center" width="70%">
-    <img src="https://skillicons.dev/icons?i=cypress" />
+    <img src="./Cypress.svg" width="40"  alt="Cypress-icon" />
     <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/contentful.svg"
-      alt="Contentful"
+      src="./assets/contentfulIcon.png"
+      alt="Contentful-icon"
       width="40"
     />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha-icon" width="40" />
     </td>
   </tr>
 </table>
 
 </div>
   <!-- Stats languages -->
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ursulavallejo&show_icons=true&locale=en&layout=compact" alt="ursulavallejo" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ursulavallejo&show_icons=true&locale=en&layout=compact" alt="ursulavallejo-stats" /></p>
 
 ## 🚀 Selected Projects
 
