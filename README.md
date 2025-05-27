@@ -144,8 +144,9 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       align="absmiddle"
       alt="Gmail"
     />
+    &nbsp;Email:
    <a href="mailto:ursulavallejo@gmail.com" target="_blank">
-  &nbsp;Email: ursulavallejo@gmail.com
+   ursulavallejo@gmail.com
     </a>
 </p>
 
