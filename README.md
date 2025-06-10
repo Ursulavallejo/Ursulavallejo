@@ -19,7 +19,9 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 
 🎨 B.Sc. in Art @ Andes University (Bogotá, Colombia)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="14" alt="learning"/> JavaScript Developer program @ IT Högskola (2025)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="14" alt="learning"/> JavaScript Developer program @ IT Högskola (2025-Gothenburg, Sweden)
+
+👩🏻‍💻 Web Developer program @ Campus Möndal (2022-Gothenburg, Sweden)
 
   <!-- Currently learning -->
 
