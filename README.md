@@ -29,6 +29,10 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 
 ---
 
+[⬇️ Download my CV-English (PDF)](assets/UrsulaVallejoCV2025_EN.pdf) | [⬇️ Download my CV-Swedish (PDF)](assets/UrsulaVallejoCV2025_SV.pdf)
+
+---
+
 <h3 align="left">💻  Languages and Tools:</h3>
 
 <div>
