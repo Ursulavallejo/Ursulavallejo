@@ -31,6 +31,8 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 
 [⬇️ Download my CV-English (PDF)](assets/UrsulaVallejoCV2025_EN.pdf) | [⬇️ Download my CV-Swedish (PDF)](assets/UrsulaVallejoCV2025_SV.pdf)
 
+Note: On GitHub, clicking the link will open the PDF in your browser. Use the download button there to save a copy to your device.
+
 ---
 
 <h3 align="left">💻  Languages and Tools:</h3>
