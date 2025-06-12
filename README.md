@@ -115,7 +115,7 @@ I spend my free time experimenting with laser-cut creations, some creative proje
       <small>Contentful </small>
     </th>
     <td align="center" width="70%">
-    <img src="./Cypress.svg" width="40"  alt="Cypress-icon" />
+    <img src="./assets/Cypress.svg" width="40"  alt="Cypress-icon" />
     <img
       src="./assets/contentfulIcon.png"
       alt="Contentful-icon"
