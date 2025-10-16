@@ -25,7 +25,9 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 
   <!-- Currently learning -->
 
-🌱 Deepening skills in **TypeScript**, **Nuxt 3 & Vue 3** and **accessibility testing (Cypress)**
+🌱 Skills in **TypeScript**, **Nuxt 3 & Vue 3** and **accessibility testing (Cypress)**
+**Ongoing learning**: C++ and p5.js (for creative coding)
+
 
 ---
 
