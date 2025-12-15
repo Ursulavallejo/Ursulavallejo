@@ -132,6 +132,20 @@ Focused on generative visuals, interaction design, and experimental systems comb
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha-icon" width="40" />
     </td>
   </tr>
+  <tr>
+  <th align="left" width="30%">
+    Creative Coding &amp; Interactive Systems:<br>
+    <small>
+      Generative visuals, real-time interaction, and audiovisual systems bridging code, motion, and perception.
+    </small>
+  </th>
+  <td align="center" width="70%">
+    <img src="https://skillicons.dev/icons?i=p5js,processing" />
+    <img src="./assets/osc.png" width="40" alt="OSC icon" />
+    <img src="./assets/supercollider.png" width="40" alt="SuperCollider icon" />
+  </td>
+</tr>
+
 </table>
 
 </div>
