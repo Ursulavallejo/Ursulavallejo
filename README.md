@@ -141,8 +141,9 @@ Focused on generative visuals, interaction design, and experimental systems comb
   </th>
   <td align="center" width="70%">
     <img src="https://skillicons.dev/icons?i=p5js,processing" />
-    <img src="./assets/osc.png" width="40" alt="OSC icon" />
-    <img src="./assets/supercollider.png" width="40" alt="SuperCollider icon" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Open_Sound_Control_logo.svg" width="40" alt="OSC" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SuperCollider_logo.svg" width="40" alt="SuperCollider" />
+
   </td>
 </tr>
 
