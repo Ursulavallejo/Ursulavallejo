@@ -23,6 +23,10 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 
 👩🏻‍💻 Web Developer program @ Campus Möndal (2022-Gothenburg, Sweden)
 
+🎛 Creative Coding (p5.js) @ Högskolan Dalarna  (2025, Sweden)
+Focused on generative visuals, interaction design, and experimental systems combining code, movement, and perception.
+
+
   <!-- Currently learning -->
 
 🌱 Skills in **TypeScript**, **Nuxt 3 & Vue 3** and **accessibility testing (Cypress)**
