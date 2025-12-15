@@ -19,12 +19,14 @@ I spend my free time experimenting with laser-cut creations, some creative proje
 
 🎨 B.Sc. in Art @ Andes University (Bogotá, Colombia)
 
+🎛 Creative Coding (p5.js) @ Högskolan Dalarna  (2025, Sweden)
+Focused on generative visuals, interaction design, and experimental systems combining code, movement, and perception.
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="14" alt="learning"/> JavaScript Developer program @ IT Högskola (2025-Gothenburg, Sweden)
 
 👩🏻‍💻 Web Developer program @ Campus Möndal (2022-Gothenburg, Sweden)
 
-🎛 Creative Coding (p5.js) @ Högskolan Dalarna  (2025, Sweden)
-Focused on generative visuals, interaction design, and experimental systems combining code, movement, and perception.
+
 
 
   <!-- Currently learning -->
